@@ -1,47 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2022-12-28T10:02:10.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="UK-lM3svkWTzTku68lGN" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-28T10:22:55.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="2FQvfyRy_4_Iivtzdj-O" type="github">
   <diagram id="J22Cc0U0loNrD__ms5sC" name="Halaman-1">
-    <mxGraphModel dx="562" dy="2311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="1853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hm0Kv9-TPxVgquShZWlJ-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-520" width="320" height="1270" as="geometry" />
+        </mxCell>
         <mxCell id="hm0Kv9-TPxVgquShZWlJ-1" value="Wisatawan" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-80" width="30" height="60" as="geometry" />
+          <mxGeometry x="50" y="120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hm0Kv9-TPxVgquShZWlJ-2" value="Melihat alamat singkat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-470" width="120" height="80" as="geometry" />
+          <mxGeometry x="290" y="-490" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hm0Kv9-TPxVgquShZWlJ-3" value="Melihat jam operasional (hari ini dan semua hari)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-350" width="120" height="80" as="geometry" />
+          <mxGeometry x="290" y="-390" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hm0Kv9-TPxVgquShZWlJ-4" value="Melihat harga tiket masuk (HTM)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-230" width="120" height="80" as="geometry" />
+          <mxGeometry x="290" y="-290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hm0Kv9-TPxVgquShZWlJ-5" value="Melihat aksesibilitas jalan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-120" width="120" height="80" as="geometry" />
+          <mxGeometry x="290" y="-190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hm0Kv9-TPxVgquShZWlJ-6" value="Melihat fasilitas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" width="120" height="80" as="geometry" />
+          <mxGeometry x="290" y="-90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hm0Kv9-TPxVgquShZWlJ-7" value="Melihat spot" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="100" width="120" height="80" as="geometry" />
+          <mxGeometry x="290" y="10" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hm0Kv9-TPxVgquShZWlJ-8" value="Melihat galeri/foto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="200" width="120" height="80" as="geometry" />
+          <mxGeometry x="290" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hm0Kv9-TPxVgquShZWlJ-9" value="Melihat video" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="300" width="120" height="80" as="geometry" />
+          <mxGeometry x="290" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hm0Kv9-TPxVgquShZWlJ-10" value="Melihat alamat lengkap" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="410" width="120" height="80" as="geometry" />
+          <mxGeometry x="290" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hm0Kv9-TPxVgquShZWlJ-11" value="Melihat map" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="530" width="120" height="80" as="geometry" />
+          <mxGeometry x="290" y="410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hm0Kv9-TPxVgquShZWlJ-12" value="Melihat objek wisata sekitar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="650" width="120" height="80" as="geometry" />
+          <mxGeometry x="290" y="505" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hm0Kv9-TPxVgquShZWlJ-13" value="Mengganti bahasa aplikasi (Bahasa Indonesia/English)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="770" width="120" height="80" as="geometry" />
+          <mxGeometry x="290" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hm0Kv9-TPxVgquShZWlJ-18" value="Aplikasi Informasi GVG" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-520" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
